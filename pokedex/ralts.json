@@ -1,0 +1,22 @@
+{
+    "nombre": "Ralts",
+    "peso": 6.6,
+    "altura": 0.4,
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+    "movimientos": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "habilidades": [
+        "synchronize",
+        "trace",
+        "telepathy"
+    ],
+    "tipos": [
+        "psychic",
+        "fairy"
+    ]
+}
