@@ -18,9 +18,9 @@ def letras_adyacentes(letra):
             print(f"Letra siguiente: {siguiente}")
         else:
             print("No hay letra siguiente (al final del alfabeto)")
-    
     else:
-        print(f"'{letra}' no es una letra válida en el alfabeto.")
+        print(f"'{letra}' no es una letra válida en el alfabeto.")  
+    
 
 # Bucle principal del programa
 def main():
