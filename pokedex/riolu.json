@@ -1,0 +1,21 @@
+{
+    "nombre": "Riolu",
+    "peso": 20.2,
+    "altura": 0.7,
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png",
+    "movimientos": [
+        "mega-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick"
+    ],
+    "habilidades": [
+        "steadfast",
+        "inner-focus",
+        "prankster"
+    ],
+    "tipos": [
+        "fighting"
+    ]
+}
