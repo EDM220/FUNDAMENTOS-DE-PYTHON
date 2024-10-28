@@ -17,7 +17,7 @@ def obtener_pokemon(nombre_pokemon): # Esta función permite introducir al usuar
     if response.status_code == 200:  # Verifica si el pokémon existe. Si es 200 es correcta.
         datos_pokemon = response.json() # Se convierte respuesta API en un formato Json
         return datos_pokemon  # Si el resultado es diferente de 200 se devuelve none para mostrar mensaje de error.
-    else:     
+    else:    
         return None
 
 # Función para mostrar la imagen y estadísticas
